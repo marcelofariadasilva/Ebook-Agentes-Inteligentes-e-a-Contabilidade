@@ -16,7 +16,7 @@ PowerPoint
 
 ## Prompts Utilizados
 
-O prompt utilizado para a capa, para imagem feita no site https://www.imagine.art/:
+O prompt utilizado para a capa da imagem feita no site https://www.imagine.art/:
 
 "Crie uma imagem de capa envolvente para um ebook com titulo de Contabilidade Supersônica: A Era dos Agentes Inteligentes, e texto escrito com português brasileiro impecável."
 
