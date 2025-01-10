@@ -49,6 +49,8 @@ Para acessar o conteúdo completo do e-book e os prompts utilizados, siga as ins
 
 3. Acesse os arquivos de cada capítulo para visualizar os prompts e o conteúdo gerado.
 
+## Artigo no Linkedin: https://www.linkedin.com/posts/activity-7283235604094443520-YfpW?utm_source=share&utm_medium=member_desktop
+
 ## Contato
 
 Para mais informações ou dúvidas, entre em contato conosco:
