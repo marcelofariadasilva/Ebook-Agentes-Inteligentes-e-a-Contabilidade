@@ -1,14 +1,24 @@
 ### README
 
-# E-book: A Revolução dos Agentes Inteligentes nos Serviços Contábeis
+# E-book: A Era dos Agentes Inteligentes nos Serviços Contábeis
 
 Bem-vindo ao repositório do GitHub dedicado à construção do e-book "A Revolução dos Agentes Inteligentes nos Serviços Contábeis". Este projeto tem como objetivo explorar como a inteligência artificial está transformando o setor contábil, automatizando processos, melhorando a precisão das informações e aumentando a eficiência operacional.
 
 ## Descrição do Projeto
 
-Este e-book foi elaborado para oferecer uma visão abrangente sobre os benefícios e desafios da implementação de Agentes Inteligentes na contabilidade. Através de casos de uso, exemplos práticos e uma abordagem filosófica sobre a evolução tecnológica, o conteúdo visa informar e inspirar profissionais da área contábil e tecnológica.
+Este e-book foi elaborado com a ajuda de Inteligência Artifical durante a aula na plataforma DIO, para oferecer uma visão abrangente sobre os benefícios e desafios da implementação de Agentes Inteligentes na contabilidade. Através de casos de uso, exemplos práticos e uma abordagem filosófica sobre a evolução tecnológica, o conteúdo visa informar e inspirar profissionais da área contábil e tecnológica.
+
+💻 Tecnologias utilizadas no projeto
+
+ChatGPT
+MidJourney
+PowerPoint
 
 ## Prompts Utilizados
+
+O prompt utilizado para a capa, para imagem feita no site https://www.imagine.art/:
+
+"Crie uma imagem de capa envolvente para um ebook com titulo de Contabilidade Supersônica: A Era dos Agentes Inteligentes, e texto escrito com português brasileiro impecável."
 
 Os prompts utilizados na criação deste e-book foram cuidadosamente elaborados para garantir a geração de conteúdo relevante e informativo. Abaixo estão listados os principais prompts utilizados em cada capítulo:
 
